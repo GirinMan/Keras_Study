@@ -1,5 +1,5 @@
 # Keras_Study
-A basic study of machine learning &amp; deep learning based on Keras on Tensorflow 2.x
+A basic study of machine learning &amp; deep learning based on Keras & Tensorflow 2.x
 
 Based on the book 'Deep learning with python' by Francois Chollet
 
